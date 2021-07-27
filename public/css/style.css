@@ -1,0 +1,15 @@
+:root
+{
+    --font-poppins:'Poppins',Arial,sans-serif;
+    --font-helvetica:'Helvetica',Arial,sans-serif;
+    --frst-color:#D3E0D7;
+    --second-color:#55D07C;
+    --third-color:#F2E205;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-helvetica);
+}
